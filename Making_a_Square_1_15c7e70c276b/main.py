@@ -1,0 +1,12 @@
+import turtle
+paper=turtle.Screen()
+pencil=turtle.Turtle()
+pencil.shape("turtle")
+pencil.forward(100)
+pencil.left(90)
+pencil.forward(100)
+pencil.left(90)
+pencil.forward(100)
+pencil.left(90)
+pencil.forward(100)
+pencil.left(90)
